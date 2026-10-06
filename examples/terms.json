@@ -1,0 +1,12 @@
+{
+  "name": {},
+  "ticker": {},
+  "homophone": {},
+  "scan": {},
+  "regex": [
+    {
+      "pattern": "(?<!A)APL",
+      "replace": "AAPL"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*cookies*
+work/
+outputs/
+transcripts/
+*.m4a
+*.mp3
+*.mp4
+*.webm
+*.wav
+*.opus
+*.info.json
+qc-report.json
+_caption_audit.json
+# Only curated synthetic examples are included.
+!examples/input/*.info.json
